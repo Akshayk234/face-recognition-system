@@ -1,2 +1,2 @@
 # face-recognition-system
-Collage Minor Project
+College Minor Project
